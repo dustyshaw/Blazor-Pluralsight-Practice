@@ -1,0 +1,153 @@
+﻿@page "/employees/list/{CurrentPage:int?}"
+
+@inject IDbContextFactory<EmployeeManagerDbContext> ContextFactory;
+@inject NavigationManager manager;
+
+
+<PageTitle>Employees</PageTitle>
+
+<h1>Employees</h1>
+
+@if (Employees is null)
+{
+    <div>Loading...</div>
+}
+else
+{
+    <ul class="pagination mt-3">
+        <li class="page-item @(CurrentPage == 1 ? "disabled" : "")">
+            <a class="page-link" href="/employees/list/@(CurrentPage - 1)">Previous</a>
+        </li>
+        @for (int i = 1; i <= TotalPages; i++)
+        {
+            <li class="page-item @(CurrentPage == i ? "active" : "")">
+                <a class="page-link" href="/employees/list/@i">@i</a>
+            </li>
+        }
+        <li class="page-item @(CurrentPage == TotalPages ? "disabled" : "")">
+            <a class="page-link" href="/employees/list/@(CurrentPage + 1)">Next</a>
+        </li>
+    </ul>
+
+    <ul class="pagination">
+        <li class="page-item"><a class="page-link" @onclick="ChangeViewToList">List View</a></li>
+        <li class="page-item"><a class="page-link" @onclick="ChangeViewToNotList">Card View</a></li>
+    </ul>
+
+    @if (listView == false)
+    {
+        <div class="d-flex flex-row">
+            @foreach (var employee in Employees)
+            {
+                <div class="card m-2 h-100" style="width: 12rem;">
+                    <img class="card-img-top" src="@employee.ImageUrl" alt="Employee Photo">
+                    <div class="card-body">
+                        <h5 class="card-title">@employee.FirstName @employee.LastName</h5>
+                        <p class="card-text">Department: @employee.Department?.Name</p>
+                        <button @onclick="() => DeleteEmployee(employee)">FIRE >:(</button>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        
+     <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Is Developer</th>
+                <th>Department</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Employees)
+            {
+                <tr>
+                    <td>@employee.FirstName</td>
+                    <td>@employee.LastName</td>
+                    <td>@employee.IsDeveloper</td>
+                    <td>@employee.Department?.Name</td>
+                    <td><button @onclick="() => DeleteEmployee(employee)">Delete</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    }
+
+}
+
+@code {
+    public bool listView { get; set; }
+
+    [Parameter]
+    public int? CurrentPage { get; set; }
+
+    private Employee[]? Employees { get; set; }
+
+    private int TotalPages { get; set; }
+
+    private const int EmployeesPerPage = 4;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listView = true;
+    }
+
+    public void ChangeViewToList()
+    {
+        listView = true;
+    }
+
+    public void ChangeViewToNotList()
+    {
+        listView = false;
+    }
+
+    public async Task DeleteEmployee(Employee emp)
+    {
+        using var context = ContextFactory.CreateDbContext();
+        context.Employees.Remove(emp);
+        await context.SaveChangesAsync();
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (CurrentPage is null or < 1)
+        {
+            // navigate to the first employee page
+            manager.NavigateTo("/employees/list/1");
+            return;
+        }
+
+        // using keyword makes it be disposed at the end of the method
+        using var context = ContextFactory.CreateDbContext();
+
+        var itemsToSkip = (CurrentPage.Value - 1) * EmployeesPerPage;
+
+        var EmployeeCount = await context.Employees.CountAsync();
+
+        TotalPages = EmployeeCount == 0
+        ? 1
+        : (int)Math.Ceiling((double)EmployeeCount / EmployeesPerPage);
+
+        if (CurrentPage > TotalPages)
+        {
+            manager.NavigateTo($"/employees/list/{TotalPages}");
+            return;
+        }
+
+        Employees = await context.Employees
+        .Include(emp => emp.Department)
+        .OrderBy(emp => emp.Id)
+        .Skip(itemsToSkip)
+        .Take(EmployeesPerPage)
+        .ToArrayAsync();
+    }
+
+}
+
+

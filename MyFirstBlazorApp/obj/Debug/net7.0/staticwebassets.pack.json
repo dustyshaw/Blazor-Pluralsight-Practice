@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyFirstBlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyFirstBlazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\Beaker.jpg",
+      "PackagePath": "staticwebassets\\Beaker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\Fozzie_Bear.jpg",
+      "PackagePath": "staticwebassets\\Fozzie_Bear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\Gonzo.jpg",
+      "PackagePath": "staticwebassets\\Gonzo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\SamTheEagle.jpg",
+      "PackagePath": "staticwebassets\\SamTheEagle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\kermit.jpg",
+      "PackagePath": "staticwebassets\\kermit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\piggy.jpg",
+      "PackagePath": "staticwebassets\\piggy.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyFirstBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyFirstBlazorApp.props",
+      "PackagePath": "build\\MyFirstBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFirstBlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyFirstBlazorApp.props",
+      "PackagePath": "buildTransitive\\MyFirstBlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
