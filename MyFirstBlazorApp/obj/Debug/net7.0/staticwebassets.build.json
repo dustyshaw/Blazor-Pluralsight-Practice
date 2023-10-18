@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x9Kpndwi0Fa/VWRJXrqXLMmz3jxPuI5uO2X/UJYV/w0=",
+  "Hash": "pbMXEifubKQ8US1U6b0zTWAaL8muHLQlGbgrq4fYELo=",
   "Source": "MyFirstBlazorApp",
   "BasePath": "_content/MyFirstBlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyFirstBlazorApp\\wwwroot",
       "Source": "MyFirstBlazorApp",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyFirstBlazorApp.styles.css",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyFirstBlazorApp.styles.css",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "MyFirstBlazorApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyFirstBlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyFirstBlazorApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyFirstBlazorApp.bundle.scp.css",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyFirstBlazorApp.bundle.scp.css",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "MyFirstBlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyFirstBlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyFirstBlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\Beaker.jpg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\Beaker.jpg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "Beaker.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Beaker.jpg"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\css\\site.css",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\favicon.png",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\Fozzie_Bear.jpg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\Fozzie_Bear.jpg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "Fozzie_Bear.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Fozzie_Bear.jpg"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\Gonzo.jpg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\Gonzo.jpg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "Gonzo.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Gonzo.jpg"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\kermit.jpg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\kermit.jpg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "kermit.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\kermit.jpg"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\logo.png",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\logo.png",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "logo.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\piggy.jpg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\piggy.jpg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "piggy.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\piggy.jpg"
     },
     {
-      "Identity": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\SamTheEagle.jpg",
+      "Identity": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\SamTheEagle.jpg",
       "SourceId": "MyFirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyFirstBlazorApp",
       "RelativePath": "SamTheEagle.jpg",
       "AssetKind": "All",

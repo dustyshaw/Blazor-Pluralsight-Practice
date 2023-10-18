@@ -2889,11 +2889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\shust\\Source\\Repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
       "projectName": "MyFirstBlazorApp",
-      "projectPath": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
+      "projectPath": "C:\\Users\\shust\\Source\\Repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
       "packagesPath": "C:\\Users\\shust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\obj\\",
+      "outputPath": "C:\\Users\\shust\\Source\\Repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shust\\AppData\\Roaming\\NuGet\\NuGet.Config",

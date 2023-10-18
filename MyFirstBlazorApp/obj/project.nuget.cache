@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BbM4v+f+EU3Z+9Pcs0E/DpUGAIXe+jRfOfu1YS2t2EcSa0yT9Abn24X66CKpI5B8kdbR/l8bTdPDiBU/WDYqQQ==",
+  "dgSpecHash": "81A61sKhVwUICjutTOr6NULShUY8IwYzUPTFNP3gGjijUd/pdwikhTS0QZMn+38Gwwye35KuI7OsESj/Mlqtpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shust\\OneDrive\\Desktop\\Back-End Web Dev Practices\\MyFirstBlazorApp\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\shust\\source\\repos\\Blazor-Pluralsight-Practice-Monday\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shust\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\shust\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

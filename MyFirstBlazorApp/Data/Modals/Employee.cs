@@ -16,11 +16,14 @@ public class Employee
 
     public bool IsDeveloper { get; set; }
 
-    public string ImageUrl { get; set; }    
+    public string? ImageUrl { get; set; }    
 
     [Required]
     public int? DepartmentId { get; set; }
 
     public Department? Department {get; set;}
+
+    [Timestamp]
+    public byte[]? TimeStamp { get; set; }
 
 }

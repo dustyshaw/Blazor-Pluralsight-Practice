@@ -85,7 +85,6 @@ namespace MyFirstBlazorApp.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("IsDeveloper")
@@ -95,6 +94,11 @@ namespace MyFirstBlazorApp.Migrations
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
+
+                    b.Property<byte[]>("TimeStamp")
+                        .IsConcurrencyToken()
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("rowversion");
 
                     b.HasKey("Id");
 
@@ -153,7 +157,7 @@ namespace MyFirstBlazorApp.Migrations
                             Id = 151,
                             DepartmentId = 1,
                             FirstName = "Sam",
-                            ImageUrl = "SameTheEagle.jpg",
+                            ImageUrl = "SamTheEagle.jpg",
                             IsDeveloper = false,
                             LastName = "The Eagle"
                         },
@@ -189,7 +193,7 @@ namespace MyFirstBlazorApp.Migrations
                             Id = 201,
                             DepartmentId = 1,
                             FirstName = "Sam",
-                            ImageUrl = "SameTheEagle.jpg",
+                            ImageUrl = "SamTheEagle.jpg",
                             IsDeveloper = false,
                             LastName = "The Eagle 2"
                         },

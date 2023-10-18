@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using MyFirstBlazorApp.Data.Modals;
+using MyFirstBlazorApp.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddHttpClient();
 // This method allows you to still recieve an instance of EmployeeManagerDbContext, but the instance of it dies quickly
 builder.Services.AddDbContextFactory<EmployeeManagerDbContext>(
     opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("EmployeeManagerDb")));
+builder.Services.AddScoped<StateContainer>();
 var app = builder.Build();
 
 await EnsureDatabaseIsMigrated(app.Services);
